@@ -21,7 +21,7 @@ cards:
   messages: "Welcome  to Janie Chan Cards product application"
   contact-details:
     customer-name: "JAN CUS"
-    customer-address: "Janie chan address"
+    customer-address: "{cipher}53895d15acba4824dab4612857fc0b889d7cdfbd7468e7b66448fa5cf036a48a06fab2d27790083d3852858dbe7cae60"
   on-call-supports:
     - 082332001
     - 1232
