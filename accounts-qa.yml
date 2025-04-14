@@ -1,0 +1,33 @@
+spring:
+  config:
+    activate:
+      on-profile: qa
+  application:
+    name: "Accounts Microservices"
+  datasource:
+    driver-class-name: org.h2.Driver
+    username: 'sa'
+    password: ''
+    url: jdbc:h2:mem:microdb
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  h2:
+    console:
+      enabled: true
+
+server:
+  port: 8082
+
+build:
+  version: 1.0
+cards:
+  messages: "Welcome  to Janie Chan Accountts QA environment web application"
+  contact-details:
+    customer-name: "JAN CUSTOMER name nè ăn lắm dã man"
+    customer-address: "Janie chan QA address"
+  on-call-supports:
+    - 082332001
+    - 1232
