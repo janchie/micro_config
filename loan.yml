@@ -18,7 +18,7 @@ server:
 
 build:
   version: 3.0
-cards:
+loan:
   messages: "Welcome  to Janie Chan Loan  web application"
   contact-details:
     customer-name: "JAN CUS"

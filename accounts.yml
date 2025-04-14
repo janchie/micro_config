@@ -22,7 +22,7 @@ server:
 
 build:
   version: 1.0
-cards:
+accounts:
   messages: "Welcome  to Janie Chan Accounts Service web application"
   contact-details:
     customer-name: "JAN CUS"

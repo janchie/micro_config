@@ -18,12 +18,9 @@ spring:
     activate:
       on-profile: prod
 
-server:
-  port: 8082
-
 build:
   version: 1.0
-cards:
+accounts:
   messages: "Welcome  to Janie Chan Cards product application"
   contact-details:
     customer-name: "JAN CUS"
