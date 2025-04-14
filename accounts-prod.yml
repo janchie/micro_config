@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: "Cards Microservices"
   datasource:
     driver-class-name: org.h2.Driver
     username: 'sa'
@@ -14,9 +12,6 @@ spring:
   h2:
     console:
       enabled: true
-  config:
-    activate:
-      on-profile: prod
 
 build:
   version: 1.0

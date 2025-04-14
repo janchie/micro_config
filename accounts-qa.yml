@@ -1,7 +1,4 @@
 spring:
-  config:
-    activate:
-      on-profile: qa
   application:
     name: "Accounts Microservices"
   datasource:

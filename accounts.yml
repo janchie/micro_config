@@ -1,6 +1,4 @@
 spring:
-  profiles:
-    active: prod
   application:
     name: "Accounts Microservices"
   datasource:
@@ -16,10 +14,7 @@ spring:
   h2:
     console:
       enabled: true
-
-server:
-  port: 8082
-
+      
 build:
   version: 1.0
 accounts:

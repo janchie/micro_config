@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: "Loan Microservices"
   datasource:
     driver-class-name: org.h2.Driver
     username: 'sa'
@@ -14,12 +12,7 @@ spring:
   h2:
     console:
       enabled: true
-  config:
-    activate:
-      on-profile: prod
 
-server:
-  port: 8082
 
 build:
   version: 1.0
