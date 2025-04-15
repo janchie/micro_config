@@ -19,7 +19,7 @@ server:
 build:
   version: 3.2
 cards:
-  messages: "Welcome  to Janie Chan Cards QA environment web experience application - Laasfa 2"
+  messages: "Welcome  to Janie Chan Cards QA environment web experience application"
   contact-details:
     customer-name: "JAN CUSTOMER name nè ăn lắm dã man"
     customer-address: "Janie chan QA address"
