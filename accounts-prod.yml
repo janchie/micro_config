@@ -16,7 +16,7 @@ spring:
 build:
   version: 1.0
 accounts:
-  messages: "Welcome  to Janie Chan Accounts product refresh check  this is update github application - Hoookes Tesst"
+  messages: "Welcome  to Janie Chan Accounts product refresh check  this is update github application - Hoookes Tesst 12"
   contact-details:
     customer-name: "JAN CUS"
     customer-address: "Janie chan address"
