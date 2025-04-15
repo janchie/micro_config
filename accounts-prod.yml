@@ -16,7 +16,7 @@ spring:
 build:
   version: 1.0
 accounts:
-  messages: "Welcome  to Janie Chan Cards product refresh check  this is update github application"
+  messages: "Welcome  to Janie Chan Accounts product refresh check  this is update github application - - Rabbit MQ testing"
   contact-details:
     customer-name: "JAN CUS"
     customer-address: "Janie chan address"
