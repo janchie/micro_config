@@ -15,7 +15,7 @@ spring:
 build:
   version: 3.0
 cards:
-  messages: "Welcome  to Janie Chan Cards  web application"
+  messages: "Welcome  to Janie Chan Cards  web docker  application"
   contact-details:
     customer-name: "JAN CUS"
     customer-address: "Janie chan address"

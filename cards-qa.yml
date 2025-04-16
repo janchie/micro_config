@@ -13,8 +13,6 @@ spring:
     console:
       enabled: true
 
-server:
-  port: 8082
 
 build:
   version: 3.2

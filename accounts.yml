@@ -16,7 +16,7 @@ spring:
 build:
   version: 1.0
 accounts:
-  messages: "Welcome  to Janie Chan Accounts Service web application"
+  messages: "Welcome  to Janie Chan Accounts Service docker web application"
   contact-details:
     customer-name: "JAN CUS"
     customer-address: "Janie chan address"
