@@ -12,7 +12,14 @@ spring:
   h2:
     console:
       enabled: true
-      
+eureka:
+  instance:
+    preferIpAddress: true
+  client:
+    fetchRegistry: true
+    registerWithEureka: true
+    serviceUrl:
+      defaultZone: localhost:8070/eureka      
 build:
   version: 1.0
 accounts:
