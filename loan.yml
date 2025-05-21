@@ -5,7 +5,7 @@ eureka:
     fetchRegistry: true
     registerWithEureka: true
     serviceUrl:
-      defaultZone: localhost:8070/eureka      
+      defaultZone: http://localhost:8070/eureka      
 build:
   version: 3.0
 loan:
